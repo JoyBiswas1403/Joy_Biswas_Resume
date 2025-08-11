@@ -28,7 +28,7 @@
 ---
 
 ## 🖼 Resume Preview
-[![Resume Preview](assets/preview.png)](JOY%20BISWAS's%20Resume%20(2).pdf)
+[![Resume Preview](assets/jbpreview.png)](JOY%20BISWAS's%20Resume%20(2).pdf)
 
 ---
 
